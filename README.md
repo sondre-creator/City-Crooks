@@ -60,18 +60,10 @@ losses on failed jobs, reduced heat, or extra maximum energy. Tool
 ownership resets when you level up, so plan purchases around your
 current level.
 Hosting on GitHub Pages
-This game is a static HTML/CSS/JavaScript website and can be hosted
-using GitHub Pages.
-1. Rename the game file to index.html.
-2. Create a public repository on GitHub, for example city-crooks.
-3. Upload index.html to the repository root and commit the file.
-4. Open Settings → Pages.
-5. Under the build and deployment settings, select Deploy from a
-   branch, choose the main branch and / (root), then save.
-6. After GitHub Pages publishes the site, share the URL shown in the
-   Pages settings.
-GitHub Pages offers free hosting for public repositories. A custom
-domain is optional and may cost extra.
+This game is a static HTML/CSS/JavaScript website 
+
+
+
 Notes
 - City Crooks is a fictional game for entertainment.
 - The current game is a single-player experience.
